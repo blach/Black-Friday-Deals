@@ -27,7 +27,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [WebMap](https://furnacecreek.org/webmap) - Sitemap generator for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 ### 💰 [WhaleDeck](https://whaledeck.io?ref=bfd) - The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. Lifetime 20% OFF for Black Friday & Cyber Monday
 ### 💰 [ChatNBX](https://chat.nbox.ai/) - is an AI chat application that helps users generate text, images, and code. Get 50% off on our Plus subscription plan! Users can use the promo code 'BLACKFRIDAY50' to redeem the offer.
-
+### 💰 [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261) - Code Editor for iPad and iPhone. Get Textastic for just $8.99 instead of $12.99 (30% off!)
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
@@ -122,7 +122,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 👩‍🎓 Courses and Videos
 ### 💸 [Code4Startup - Building and Selling AI Startups](https://code4startup.com/black_friday/) Mega discount for the Bundle of AI Premium Series. 90% discount from now until Cyber Monday.
-### 💰 [GoRails.com](https://gorails.com/pricing) Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more!
+### 💸 [GoRails.com](https://gorails.com/pricing) Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more!
+### 💸 [Advanced Ruby: Behind the Magic](https://courses.gorails.com/advanced-ruby-for-rails-devs?coupon=GX2GK0G) We cover 6+ hours of Ruby techniques used in Rails and other Rubygems to see how they work from scratch.
+### 💸 [Refactoring Rails](https://courses.gorails.com/refactoring-rails?coupon=GX2GK0G) Ben Orenstein's Refactoring Rails course is one I refer back to several times a year. It's a great set of strategies for cleaning up and better organizing your code.
+### 💸 [Payments with Ruby on Rails Master Class](https://courses.gorails.com/payments-with-rails-master-class?coupon=GX2GK0G) This course walks you through accepting Payments with Stripe that are compatible with Strong Customer Authentication, webhooks, and more.
 
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
